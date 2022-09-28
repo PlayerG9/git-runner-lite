@@ -1,2 +1,2 @@
 # git-runner-lite
- minmal version of the git-runner project
+ minimal version of the git-runner project
